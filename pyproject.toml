@@ -1,0 +1,9 @@
+[project]
+name = "tflearn"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.5.2",
+    "pillow>=12.3.0",
+    "six>=1.17.0",
+]
